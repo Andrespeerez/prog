@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0b79132c-b1aa-49ae-998f-275cb044af56" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../../Ejercicios/Unidad 5/Tareas/Tarea1-10/src/A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Ejercicios/Unidad 5/Tareas/Tarea1-10/src/B.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Ejercicios/Unidad 5/Tareas/Tarea1-12/src/Coche.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Ejercicios/Unidad 5/Tareas/Tarea1-12/src/Deportivo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Ejercicios/Unidad 5/Tareas/Tarea1-12/src/Marcha.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Ejercicios/Unidad 5/Tareas/Tarea1-12/src/Vehiculo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Ejercicios/Unidad 5/Tareas/Tarea1-5/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Ejercicios/Unidad 5/Tareas/Tarea1-5/src/Pelicula.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Ejercicios/Unidad 5/Tareas/Tarea1-5/src/Video.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Ejercicios/Unidad 5/Tareas/Tarea1-5/src/VideoMusical.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unidad 5/Clase24-01/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unidad 5/Clase24-01/src/Pikachu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unidad 5/Clase24-01/src/Pokemon.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tarea2/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tarea2/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tarea2/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tarea2/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tarea2/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tarea2/Tarea2.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tarea2/src/Ejercicio1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tarea2/src/Ejercicio11.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tarea2/src/Ejercicio12.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tarea2/src/Ejercicio2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tarea2/src/Ejercicio5.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tarea2/src/Ejercicio6.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tarea2/src/Ejercicio7.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tarea2/src/Ejercicio8.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tarea2/src/Ejercicio9.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tarea3/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tarea3/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tarea3/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tarea3/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tarea3/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tarea3/Tarea3.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tarea3/src/Ejercicio1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tarea3/src/Ejercicio2/ArrayOperations.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tarea3/src/Ejercicio2/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tarea4/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tarea4/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tarea4/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tarea4/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tarea4/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tarea4/Tarea4.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tarea4/src/MesCollector.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tarea4/src/MesTester.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tarea5-2/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tarea5-2/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tarea5-2/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tarea5-2/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tarea5-2/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tarea5-2/Tarea5-2.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tarea5-2/src/AnalizadorFrecuencias.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tarea5-2/src/FrecuenciaLetra.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tarea5-2/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tarea5/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tarea5/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tarea5/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tarea5/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tarea5/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tarea5/Tarea5.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tarea5/src/Demo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tarea5/src/Programa.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tarea5/src/Tarea7.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tarea5/src/TestTarea6.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tarea6-1/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tarea6-1/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tarea6-1/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tarea6-1/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tarea6-1/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tarea6-1/Tarea6-1.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tarea6-1/src/Tabla.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Andrespeerez&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Andrespeerez/prog.git&quot;,
+    &quot;accountId&quot;: &quot;1cb6a8d9-2c54-41b6-be19-fda44c59de54&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="2s1kDbMdXiX1odRAym38E0tUxNu" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.BinarySearch.executor": "Run",
+    "Application.BubbleSort.executor": "Run",
+    "Application.Sort.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "D:/Repositorios/IGFormaciones/1º DAW/Programación/Ejercicios/Unidad 4/Tareas/Tarea7"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0b79132c-b1aa-49ae-998f-275cb044af56" name="Changes" comment="" />
+      <created>1737630349702</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1737630349702</updated>
+    </task>
+    <servers />
+  </component>
+</project>
